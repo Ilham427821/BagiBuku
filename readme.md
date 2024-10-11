@@ -8,7 +8,7 @@ Fitur apa saja yang tersedia di BagiBuku?
 - Transaksi & CRUD
 - Dan lain-lain
 	
-**Admin Default Account**
+<h2>**Admin Default Account**</h2>
 - Username: admin
 - Password: admin
 - ```bagibuku/auth```
