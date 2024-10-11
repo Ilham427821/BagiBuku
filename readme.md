@@ -25,3 +25,4 @@ Fitur apa saja yang tersedia di BagiBuku?
 
 **Fitur notif menggunakan api wa**
 Kami menggunakan api whatsapp gratis dari website fonnte
+https://fonnte.com
