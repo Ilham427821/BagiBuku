@@ -8,20 +8,20 @@ Fitur apa saja yang tersedia di BagiBuku?
 - Transaksi & CRUD
 - Dan lain-lain
 	
-<h2>**Admin Default Account**</h2>
+**Admin Default Account👥**
 - Username: admin
 - Password: admin
 - ```bagibuku/auth```
 
-**Kepala Perpustakaan Default Account**
-- Username: 
-- Password: 
+**Kepala Perpustakaan Default Account📚**
+- Username: -
+- Password: -
 - ```bagibuku/auth```
 
-**Mahaiswa Default Account**
-- Username: REG001
-- Password: anakorang123
+**Mahasiswa Default Account👩🏻‍🎓👨🏻‍🎓**
+- Username: -
+- Password: -
 - ```bagibuku/page/login```
 
 **Fitur notif menggunakan api wa**
-- ```bagibuku/page/...```
+Kami menggunakan api whatsapp gratis dari website fonnte
